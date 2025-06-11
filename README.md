@@ -1,73 +1,82 @@
-<h2 align="center">Hi there 👋 I'm Nambatya Aisha</h2>
-<p align="center">
-  💻 Full-Stack Developer | 🐍 Python & Django Enthusiast | 💪 Advocate for Girls in Tech  
-</p>
+<h1 align="center">Hi there, I'm Aisha Nambatya 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif"/>
+  🌍 Kampala, Uganda • 💻 Full-Stack Web Developer • 💡 Tech Mentor & Girl Empowerment Advocate
 </p>
 
 ---
 
-### ✨ About Me
+### 👩‍💻 About Me
 
-- 🌍 I'm passionate about using technology to **uplift underrepresented communities**
-- 👩🏽‍💻 I empower **young girls** to embrace tech through mentorship and advocacy
-- 🔭 Currently building inclusive digital tools with **Django & Bootstrap**
-- 🌱 Always excited to collaborate with **organizations that support girls and education**
-- ⚽ Fun fact: I’m a football fan, movie lover, and curious learner!
+I'm a **passionate Python and Django developer** who thrives on crafting clean, efficient, and scalable web applications. With a love for solving complex problems using elegant solutions, I’m committed to building meaningful digital experiences that empower users—especially **young girls stepping into tech**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L0P2rjymv0fDO/giphy.gif" width="250" alt="neymar-football-gif"/>
- 
-</p>
+When I'm not in developer mode, I'm chilling with friends, watching movies, or passionately cheering on my favorite football team. ⚽🎬
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
+### 🚀 Mission
+To create **impactful technology solutions** that empower girls, one line of code at a time.
 
 ---
 
-### 💡 Featured Projects
-
-**🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)**  
-An inventory and sales system for small-scale produce retailers.  
-**Tech:** Django, Python, Bootstrap  
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="project-gif"/>
+### 🧠 Lifelong Learner
+Exploring new tools, frameworks, and solving real-world problems to sharpen my skills.
 
 ---
 
-**🧘 [Xtreative Market](https://admin-xtreative-wb.onrender.com/admin-dashboard)**  
-An online marketplace that connects vendors to customers.  
-**Tech:** Django, React Native, React  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="market-gif"/>
+### 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, Bootstrap
+- **Front-End:** Responsive design, UI/UX principles
+- **Back-End:** API development, server-side logic
+- **Tools:** Git, GitHub, VSCode, Postman
+- **Soft Skills:** Mentorship, communication, teamwork
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aisha-Nambatya&show_icons=true&theme=calm" width="400"/>
-</p>
+#### 💼 [Happy Hoe Grocery](#)
+> A Django-powered web app for managing grocery sales, credits, and inventory with a clean, user-friendly UI.  
+> **Tech Stack:** Python, Django, Bootstrap  
+> 🔗 _[View Project]()_
+
+#### 💪 [FitTrack - Fitness Platform](#)
+> A full-stack fitness platform that helps users track workouts and progress.  
+> **Tech Stack:** HTML, CSS, JavaScript, Django  
+> 🔗 _[View Project]()_
+
+#### 🧘‍♀️ [Olivia - Yoga Web App](#)
+> A yoga-inspired web application offering a seamless experience for users seeking relaxation and flexibility.  
+> **Tech Stack:** Python, Django, Bootstrap  
+> 🔗 _[View Project]()_
 
 ---
 
-### 🤝 Let's Connect
+### 🏆 Accomplishments
 
-📧 [Email Me](mailto:aishanmbt@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aisha-nambatya-228581339/)  
-🐦 [X / Twitter](https://x.com/AishaNamba66224)  
-📸 [Instagram](https://www.instagram.com/ayeeshah.muha03/)
+- 🧩 Built and deployed multiple scalable web apps
+- 💬 Mentored aspiring developers, especially girls
+- 📚 Committed to continuous learning and community growth
 
 ---
 
-> _“Empowering girls through technology is not just my passion — it's my purpose.”_ – Aisha Nambatya
+### 📫 Get in Touch
+
+- 📧 Email: [aishanmbt@gmail.com](mailto:aishanmbt@gmail.com)  
+- 📍 Location: Kampala, Uganda  
+- 📱 Phone: [+256 700990653](tel:+256700990653)  
+
+**Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisha-nambatya-228581339/)  
+[![Twitter/X](https://img.shields.io/badge/-@AishaNamba66224-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/AishaNamba66224)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ayeeshah.muha03/)
+
+---
+
+### 💬 Fun Quote  
+> "Building a better tomorrow through creativity, courage, and code." – Aisha Nambatya
+
+---
+
