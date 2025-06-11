@@ -8,8 +8,14 @@
 
 ## 🧰 Tech Toolbox
 
-✨ Languages & Frameworks  
-🐍 Python | 🌿 Django | 🖼️ Bootstrap | 🌐 HTML5 + CSS3 | ⚡ JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Soft%20Skills-4CAF50?style=flat&logo=handshake&logoColor=white"/>
+</p>
 
 📦 Tools  
 🔧 Git & GitHub | 🔬 Postman | 🧪 VS Code
