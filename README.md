@@ -1,16 +1,17 @@
 ## Hi there 👋 I'm Nambatya Aisha
 <h2 align="center">Hi 👋, I'm Aisha Nambatya</h2>
 <p align="center">
-  💻 Full-Stack Developer | 🐍 Python & Django Enthusiast | 🚀 Empowering Girls in Tech
+  💻 Full-Stack Developer | 🐍 Python & Django Enthusiast | 💪 Advocate for Girls in Tech
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 I’m currently working on impactful tech projects to uplift communities
-- 🌱 I’m learning advanced Django features and scalable backend architectures
-- 👩‍🏫 I mentor aspiring devs, especially young girls, to thrive in tech
-- ⚽ Fun fact: I'm a football fan, movie buff, and chill vibes ambassador!
+### ✨ About Me
+- 🌍 I'm passionate about using technology to uplift underrepresented communities
+- 👩🏽‍💻 I empower young girls to embrace tech through mentorship and community work
+- 🔭 Currently building inclusive digital solutions with Django & Bootstrap
+- 🌱 Eager to collaborate with organizations that support girls and education
+- ⚽ Fun fact: I’m a football fan, movie lover, and curious learner!
 
 ---
 
@@ -24,18 +25,18 @@
 
 ---
 
-### 📌 Featured Projects
+### 💡 Featured Projects
 
 **🛒 [Happy Hoe Grocery](#)**  
-A Django app for managing stock, sales, and credits for grocery distribution.  
+An inventory and sales system for small-scale produce retailers.  
 **Tech:** Django, Bootstrap
 
 **🏋️‍♀️ [FitTrack](#)**  
-Fitness app with a dynamic frontend and user analytics.  
+A web app promoting fitness and well-being with a personalized touch.  
 **Tech:** Django, JS, CSS
 
 **🧘 [Olivia Yoga](#)**  
-Yoga and wellness portal with a clean interface.  
+A simple yet elegant yoga platform to encourage wellness.  
 **Tech:** Django, Bootstrap
 
 ---
@@ -46,13 +47,13 @@ Yoga and wellness portal with a clean interface.
 
 ---
 
-### 📫 Contact Me
+### 🤝 Let's Connect
 
-📧 [Email Me](mailto:aishanmbt@gmail.com)  
+📧 [aishanmbt@gmail.com](mailto:aishanmbt@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aisha-nambatya-228581339/)  
 🐦 [X / Twitter](https://x.com/AishaNamba66224)  
 📸 [Instagram](https://www.instagram.com/ayeeshah.muha03/)
 
 ---
-> _"Building a better tomorrow through creativity, courage, and code."_ – Aisha Nambatya
 
+> _“Empowering girls through technology is not just my passion — it's my purpose.”_ – Aisha Nambatya
