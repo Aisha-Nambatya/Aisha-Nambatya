@@ -25,14 +25,13 @@
 **🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)**  
 An inventory and sales system for small-scale produce retailers.  
 **Tech:** Django, Python, Bootstrap  
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="project-gif"/>
+
 
 ---
 
 **🧘 [Xtreative Market](https://admin-xtreative-wb.onrender.com/admin-dashboard)**  
 An online marketplace that connects vendors to customers.  
 **Tech:** Django, React Native, React  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="market-gif"/>
 
 ---
 
