@@ -17,6 +17,11 @@
 - 🌱 Always excited to collaborate with **organizations that support girls and education**
 - ⚽ Fun fact: I’m a football fan, movie lover, and curious learner!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L0P2rjymv0fDO/giphy.gif" width="250" alt="neymar-football-gif"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="neymar-skill-gif"/>
+</p>
+
 ---
 
 ### 🧰 Tech Stack
