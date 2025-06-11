@@ -43,7 +43,7 @@ A simple yet elegant yoga platform to encourage wellness.
 
 ### 📊 GitHub Stats
 
-![Aisha's GitHub stats](github.com/Aisha-Nambatya/Ayeesha)
+![Aisha's GitHub stats](https://github.com/Aisha-Nambatya/Aisha-Nambatya)
 
 ---
 
