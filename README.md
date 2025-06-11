@@ -4,7 +4,7 @@ I'm a passionate Python and Django developer with a knack for building clean, ef
  About Me
  Tech Enthusiast & Developer: Specializing in Python, Django, and full-stack web development.
 
- Mission: To create impactful technology solutions that empower users and businesses.
+ Mission: To create impactful technology solutions that empower young girls.
 
  Lifelong Learner: Always exploring new tools, frameworks, and challenges to grow my skills.
 
@@ -17,16 +17,16 @@ Front-End Design: Crafting user-friendly and responsive interfaces
 
 Back-End Support: Building robust server-side logic and APIs
 
-Tech Mentorship: Guiding aspiring developers to thrive in tech
+Tech Mentorship: Guiding aspiring developers to thrive in tech specifically girls.
 
  Featured Projects
 Here are some projects I'm proud of (based on your portfolio's "My Projects" section):
-[Project 1: Jenny]
+[Happy Hoe]
 A web application built with Django, showcasing clean code and user-focused design.
 Tech Stack: Python, Django, Bootstrap
 Link: (Add GitHub repo or live demo link here)
 
-[Project 2: Marry]
+[Project 2: ]
 A fitness-themed platform with dynamic front-end and back-end integration.
 Tech Stack: HTML, CSS, JavaScript, Django
 Link: (Add GitHub repo or live demo link here)
