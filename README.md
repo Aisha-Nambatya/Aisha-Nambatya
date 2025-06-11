@@ -52,12 +52,11 @@ I’m always open to collaborating on exciting projects or chatting about tech, 
  Phone: +256 700990653 (tel:+256700990653)  
 
  Connect with me:
-![Twitter](https://x.com/AishaNamba66224)
+(https://x.com/AishaNamba66224)
 
-![LinkedIn](https://www.linkedin.com/in/aisha-nambatya-228581339/))
-![Instagram](https://www.instagram.com/ayeeshah.muha03/))
+(https://www.linkedin.com/in/aisha-nambatya-228581339/))
+(https://www.instagram.com/ayeeshah.muha03/))
 
  Fun Quote
 "Building a better tomorrow through creativity, courage, and code." – Aisha Nambatya
-
 
