@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L0P2rjymv0fDO/giphy.gif" width="250" alt="neymar-football-gif"/>
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250" alt="neymar-skill-gif"/>
+ 
 </p>
 
 ---
