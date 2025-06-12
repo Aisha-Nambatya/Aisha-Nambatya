@@ -1,9 +1,12 @@
 ## 👋 Hey there, I'm Aisha Nambatya!
 
 🎯 Passionate **Web Developer**  
-🧪 Technical Skills 🧰 Python · 🌿 Django Framework · 🎨 HTML & CSS · 💅 Bootstrap · 📦 Git & GitHub
-🖥️ VS Code · 🧪 Testing & Debugging · ☁️ Cloud Deployment · ⚙️ Command-Line Tools
-🧊 Crispy Forms · 💡 HTML/CSS Validation · 🧱 Back-End Web Development  
+🧪 Technical Skills
+🧰 Python · 🌿 Django Framework · 🎨 HTML & CSS · 💅 Bootstrap · 📦 Git & GitHub <br>
+🖥️ VS Code · 🧪 Testing & Debugging · ☁️ Cloud Deployment · ⚙️ Command-Line Tools <br>
+🧊 Crispy Forms · 💡 HTML/CSS Validation · 🧱 Back-End Web Development
+
+
 🧠 Soft Skills: Communication · Collaboration · Leadership · Problem Solving · Teamwork 
 👩‍💼 Tech Mentor | 🌱 Constant Learner | ⚽ Football Fan
 
