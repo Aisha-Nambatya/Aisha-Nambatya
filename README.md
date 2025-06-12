@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Aisha Nambatya!
 
-🎯 Passionate **Full-Stack Developer**  
-🛠️ Focus: **Python + Django + Beautiful UIs**  
+🎯 Passionate **Web Developer**  
+🛠️ Focus: **Python + Django + HTML + CSS**  
 👩‍💼 Tech Mentor | 🌱 Constant Learner | ⚽ Football Fan
 
 ---
