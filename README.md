@@ -2,7 +2,7 @@
 
 
 🎯 Passionate **Full-Stack Developer**  
-🛠️ Focus: **Python + Django + Beautiful UIs +  Communication + Collaboration + Leadership + Problem Solving + Teamwork **  
+🛠️ Focus: Python + Django + Html + CSS +  Communication + Collaboration + Leadership + Problem Solving + Teamwork  
 👩‍💼 Tech Mentor | 🌱 Constant Learner | ⚽ Football Fan
 
 
