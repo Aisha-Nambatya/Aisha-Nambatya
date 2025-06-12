@@ -34,10 +34,10 @@ An online marketplace that connects vendors to customers.
 **Tech:** Django, React Native, React  
 
 ---
- 🌙 Moon Tracker
-A menstrual health tracking app that helps women monitor their cycles, ovulation, and well-being.
-Tech: Django, React
-### 📊 GitHub Stats
+### 🌙 [Moon Tracker](https://your-link-here.com)  
+A menstrual health tracking app that helps women monitor their cycles, ovulation, and well-being.  
+**Tech:** Django, React  
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aisha-Nambatya&show_icons=true&theme=calm" width="400"/>
