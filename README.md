@@ -25,6 +25,8 @@
 
 ---
 
+🔨 Projects I'm Proud Of
+
 **🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)**  
 An inventory and sales system for small-scale produce retailers.  
 **Tech:** Django, Python, Bootstrap  
