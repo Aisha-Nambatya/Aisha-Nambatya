@@ -1,52 +1,44 @@
 ## 👋 Hey there, I'm Aisha Nambatya!
 
-
 🎯 Passionate **Full-Stack Developer**  
 🛠️ Focus: Python + Django + Html + CSS +  Communication + Collaboration + Leadership + Problem Solving + Teamwork  
 👩‍💼 Tech Mentor | 🌱 Constant Learner | ⚽ Football Fan
-
-
 
 ---
 
 ## 🧰 Tech Toolbox
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Soft%20Skills-4CAF50?style=flat&logo=handshake&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Soft%20Skills-4CAF50?style=flat&logo=handshake&logoColor=white"/>
 
 📦 Tools  
 🔧 Git & GitHub | 🔬 Postman | 🧪 VS Code
 
 ---
 
-🔨 Projects I'm Proud Of
+## 🔨 Projects I'm Proud Of
 
 **🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)**  
 An inventory and sales system for small-scale produce retailers.  
 **Tech:** Django, Python, Bootstrap  
 
-
----
-
 **🧘 [Xtreative Market](https://admin-xtreative-wb.onrender.com/admin-dashboard)**  
 An online marketplace that connects vendors to customers.  
 **Tech:** Django, React Native, React  
 
----
-### 🌙 [Moon Tracker](https://your-link-here.com)  
+**🌙 [Moon Tracker](https://your-link-here.com)**  
 A menstrual health tracking app that helps women monitor their cycles, ovulation, and well-being.  
 **Tech:** Django, React  
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aisha-Nambatya&show_icons=true&theme=calm" width="400"/>
-</p>
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aisha-Nambatya&show_icons=true&theme=calm" width="400"/>
 
 ---
 
