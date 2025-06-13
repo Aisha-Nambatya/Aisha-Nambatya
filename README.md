@@ -1,8 +1,8 @@
-## 👋 Hey there, I'm Aisha Nambatya!
+## 👋 Hey there, I'm Aisha Nambatya
 
 🎯 Passionate **Full-Stack Developer**  
-🛠️ Focus: Python + Django + Html + CSS +  Communication + Collaboration + Leadership + Problem Solving + Teamwork  
-👩‍💼 Tech Mentor | 🌱 Constant Learner | ⚽ Football Fan
+🛠️ Focus Areas: Python, Django, HTML, CSS, Communication, Collaboration, Leadership, Problem Solving  
+👩‍💼 Tech Mentor | 🌱 Lifelong Learner | ⚽ Football Enthusiast
 
 ---
 
@@ -15,24 +15,23 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Soft%20Skills-4CAF50?style=flat&logo=handshake&logoColor=white"/>
 
-📦 Tools  
-🔧 Git & GitHub | 🔬 Postman | 🧪 VS Code
+🛠️ Tools I Use: Git & GitHub | Postman | VS Code
 
 ---
 
 ## 🔨 Projects I'm Proud Of
 
-**🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)**  
-An inventory and sales system for small-scale produce retailers.  
-**Tech:** Django, Python, Bootstrap  
+### 🛒 [Happy Hoe Grocery](https://github.com/Aisha-Nambatya/projectie)  
+An inventory and sales system for small-scale produce retailers, built to manage procurement, stock, and credit sales.  
+**Tech Stack:** Django, Python, Bootstrap  
 
-**🧘 [Xtreative Market](https://admin-xtreative-wb.onrender.com/admin-dashboard)**  
-An online marketplace that connects vendors to customers.  
-**Tech:** Django, React Native, React  
+### 🧘 [Xtreative Market](https://admin-xtreative-wb.onrender.com/admin-dashboard)  
+An online marketplace that connects vendors to customers through a responsive dashboard and backend system.  
+**Tech Stack:** Django, React Native, React  
 
-**🌙 [Moon Tracker](https://your-link-here.com)**  
-A menstrual health tracking app that helps women monitor their cycles, ovulation, and well-being.  
-**Tech:** Django, React  
+### 🌙 [Moon Tracker](https://your-link-here.com)  
+A menstrual health app that helps women monitor cycles, ovulation, and general wellness.  
+**Tech Stack:** Django, React
 
 ---
 
@@ -42,13 +41,15 @@ A menstrual health tracking app that helps women monitor their cycles, ovulation
 
 ---
 
-## 📬 Reach Me At
+## 📬 Let's Connect
 
-- 📧 Email: [aishanmbt@gmail.com](mailto:aishanmbt@gmail.com)
-- 🧵 Twitter/X: [@AishaNamba66224](https://x.com/AishaNamba66224)
-- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/aisha-nambatya-228581339/)
+- 📧 Email: [aishanmbt@gmail.com](mailto:aishanmbt@gmail.com)  
+- 🧵 Twitter/X: [@AishaNamba66224](https://x.com/AishaNamba66224)  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aisha-nambatya-228581339/)
 
 ---
 
-### 💬 Quote to Code By
-> _"Building a better tomorrow through creativity, courage, and code." – Aisha Nambatya_
+## 💬 Quote to Code By
+
+> _"Building a better tomorrow through creativity, courage, and code."_  
+> — **Aisha Nambatya**
